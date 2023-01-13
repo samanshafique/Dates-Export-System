@@ -1,0 +1,8 @@
+C:\Users\dc\source\repos\run\run\bin\Debug\run.exe.config
+C:\Users\dc\source\repos\run\run\bin\Debug\run.exe
+C:\Users\dc\source\repos\run\run\bin\Debug\run.pdb
+C:\Users\dc\source\repos\run\run\obj\Debug\run.csproj.AssemblyReference.cache
+C:\Users\dc\source\repos\run\run\obj\Debug\run.csproj.SuggestedBindingRedirects.cache
+C:\Users\dc\source\repos\run\run\obj\Debug\run.csproj.CoreCompileInputs.cache
+C:\Users\dc\source\repos\run\run\obj\Debug\run.exe
+C:\Users\dc\source\repos\run\run\obj\Debug\run.pdb
